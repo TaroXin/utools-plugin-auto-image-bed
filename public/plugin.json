@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://www.baidu.com"
+  },
+  "features": [
+    {
+      "code": "hello",
+      "explain": "hello world",
+      "cmds": [
+        "hello",
+        "你好"
+      ]
+    }
+  ]
+}
