@@ -2,7 +2,7 @@
   "main": "index.html",
   "logo": "logo.png",
   "development": {
-    "main": "http://www.baidu.com"
+    "main": "http://localhost:3000"
   },
   "features": [
     {
