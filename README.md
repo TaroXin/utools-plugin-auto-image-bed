@@ -1,9 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 20px; font-size: 28px; font-weight: bold; color: #536178;">
+<div align="center">
   <img src="./public/logo.png" style="width: 120px"/>
 
-  <div>
-    uTools 凹凸曼图床
-  </div>
+  <h2>
+    <font color="#536178">uTools 凹凸曼图床</font>
+  </h2>
 </div>
 
 ## 使用
